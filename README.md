@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Oleh 👋
 
-<!--
-**olehkhomyk/olehkhomyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Lviv, Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+9+ years of building production software — from internal platforms for 
+global sportswear brands to large-scale enterprise e-commerce systems 
+serving millions of users. Frontend is my deepest expertise, but I work 
+across the stack: backend services, AWS Lambda functions, migration 
+scripts, and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do:**
+- 🏗️ Architecture and complex application design (Angular, React, Next.js)
+- 🔧 Full-stack delivery — Node.js, Spring Boot, AWS Lambda, GraphQL
+- 👥 Mentoring developers and leading UI teams
+- 📚 Previously instructor at Logos IT Academy
+
+**Currently focused on:** deepening React/Next.js ecosystem and Spring Boot 
+patterns for fullstack work
+
+**Tech stack:**
+
+`TypeScript` `JavaScript` `Java`  
+`Angular` `React` `Next.js` `RxJS` `NgRx` `Redux`  
+`Node.js` `Express` `Spring Boot` `GraphQL`  
+`AWS (Lambda, Amplify, Cognito)`
+
+📫 [LinkedIn](https://linkedin.com/in/oleh-khomyk) · oleh.khomyk@gmail.com
