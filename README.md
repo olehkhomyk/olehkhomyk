@@ -4,9 +4,9 @@ Software Engineer based in Lviv, Ukraine 🇺🇦
 
 9+ years of building production software — from internal platforms for 
 global sportswear brands to large-scale enterprise e-commerce systems 
-serving millions of users. Frontend is my deepest expertise, but I work 
-across the stack: backend services, AWS Lambda functions, migration 
-scripts, and infrastructure.
+serving millions of users. Frontend is where I'm strongest, but I'm comfortable
+across the stack — I've shipped backend services, worked with Node.js,
+Spring Boot, and various databases, and can own a feature from UI to API.
 
 **What I do:**
 - 🏗️ Architecture and complex application design (Angular, React, Next.js)
